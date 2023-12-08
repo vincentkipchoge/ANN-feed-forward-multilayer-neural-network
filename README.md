@@ -2,7 +2,7 @@
 This is an implementation of a feed-forward multilayer neural network (ANN) with one-biased neuron in the input layer that can perform the classification task on the Iris dataset.
 
 
-Topology:
+Topologies:
 
 ![sfs](https://github.com/vincentkipchoge/ANN-feed-forward-multilayer-neural-network/assets/100973751/3b94916d-0561-446c-a127-ebddc3780914)
 
